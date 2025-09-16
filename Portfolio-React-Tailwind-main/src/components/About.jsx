@@ -14,10 +14,7 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              I am a passionate full-stack developer with a focus on building
-              modern and responsive web applications. With a strong foundation
-              in both frontend and backend technologies, I strive to create
-              seamless and efficient user experiences.
+              About Me I am a student at Van Lang University, currently enrolled in class 72K29CNTT01, majoring in Information Technology. I am passionate about technology and constantly strive to improve my skills through academic projects and self-learning.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
@@ -38,18 +35,18 @@ const About = () => {
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
                     className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
-                    transform transition-transform duration-300 hover:scale-105 w-11/12"
+                    transform transition-transform duration-300 hover:scale-105 w-3/12"
                   ></div>
                 </div>
               </div>
               <div className="flex items-center">
                 <label htmlFor="htmlandcss" className="w-2/12">
-                  Node JS
+                  Java
                 </label>
                 <div className="grow bg-gray-800 rounded-full h-2.5">
                   <div
                     className="bg-gradient-to-r from-green-400 to-blue-500 h-2.5 rounded-full 
-                    transform transition-transform duration-300 hover:scale-105 w-9/12"
+                    transform transition-transform duration-300 hover:scale-105 w-5/12"
                   ></div>
                 </div>
               </div>
@@ -58,23 +55,16 @@ const About = () => {
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        3+
+                        1
                     </h3>
                     <p>Years Experience</p>
                 </div>
                 <div>
                     <h3 className="text-2xl font-bold text-transparent bg-clip-text 
                 bg-gradient-to-r from-green-400 to-blue-500">
-                        50+
+                        Comming Soon
                     </h3>
                     <p>Projects Completed</p>
-                </div>
-                <div>
-                    <h3 className="text-2xl font-bold text-transparent bg-clip-text 
-                bg-gradient-to-r from-green-400 to-blue-500">
-                        10+
-                    </h3>
-                    <p>Happy Clients</p>
                 </div>
             </div>
           </div>

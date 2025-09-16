@@ -1,28 +1,13 @@
 import React from "react";
-import employeeMSImage from "../assets/employee-ms.png";
-import bookMSImage from "../assets/admin-dashboard.png";
+import employeeMSImage from "../assets/sportSlotLogo.png";
 
 const projects = [
   {
     id: 1,
-    name: "Employee MS",
-    technologies: "MERN Stack",
+    name: "SportSlot",
+    technologies: "HTML, CSS, JavaScript, Flask, MongoDB",
     image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
-  },
-  {
-    id: 2,
-    name: "Blog App",
-    technologies: "MERN Stack",
-    image: bookMSImage,
-    github: "https://github.com/YouafKhan1",
-  },
-  {
-    id: 3,
-    name: "Book MS",
-    technologies: "MERN Stack",
-    image: employeeMSImage,
-    github: "https://github.com/YouafKhan1",
+    github: "https://github.com/Hodutuandat/SportSLot.git",
   },
 ];
 
