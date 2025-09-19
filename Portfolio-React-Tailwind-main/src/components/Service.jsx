@@ -17,6 +17,7 @@ const services = [
     description: "Developing robust server-side logic and databases.",
   },
 ];
+
 const Service = () => {
   return (
     <div className="bg-black text-white py-20" id="service">

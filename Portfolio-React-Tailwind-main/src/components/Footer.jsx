@@ -39,10 +39,10 @@ const Footer = () => {
             &copy; {new Date().getFullYear()} Teichi. All rights reserved.
           </p>
           <div className="flex space-x-4 my-4 md:my-0">
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://www.facebook.com/share/1TEpBXv2rY/?mibextid=wwXIfr" className="text-gray-400 hover:text-white">
               <FaFacebook />
             </a>
-            <a href="#" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/Tdat10052499" className="text-gray-400 hover:text-white">
               <FaGithub />
             </a>
           </div>
