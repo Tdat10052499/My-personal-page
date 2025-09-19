@@ -14,7 +14,7 @@ const About = () => {
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
-              About Me I am a student at Van Lang University, currently enrolled in class 72K29CNTT01, majoring in Information Technology. I am passionate about technology and constantly strive to improve my skills through academic projects and self-learning.
+              I am a student at Van Lang University, currently enrolled in class 72K29CNTT01, majoring in Information Technology. I am passionate about technology and constantly strive to improve my skills through academic projects and self-learning.
             </p>
             <div className="space-y-4">
               <div className="flex items-center">
